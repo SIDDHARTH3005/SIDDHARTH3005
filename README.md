@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SIDDHARTH3005
-- 👀 I’m interested in learning website development and learning c language,python
-- 🌱 I’m currently learning website development half half
+- 👀 I’m learning website development(Frontend),know Video Editing. 
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email id siddharthshahofficial@gmail.com
 
